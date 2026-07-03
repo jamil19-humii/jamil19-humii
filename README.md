@@ -1,6 +1,7 @@
 # Hello there, I am jamil19-humii 👋
 
-![Header](IMAGES/code.jpg)
+![Header](Header.jpg)
+<img align="right" width="350" alt=" " src="lateral.jpg"/>
 
 / About me /
 
