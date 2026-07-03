@@ -1,5 +1,5 @@
 # Hello there, I am jamil19-humii 👋
-<p align = center ><img src="Header.jpg"> </p>
+<img align="center" src="Header.jpg"> 
 
 <div>
 <img align="right" width="350"  alt=" " src="lateral.png"/>
